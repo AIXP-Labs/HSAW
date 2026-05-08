@@ -107,6 +107,12 @@ Runtime implementations:
 
 ---
 
+## ⚠️ Disclaimer
+
+This white paper presents a **design principle** for AI systems and is provided for **research, educational, and discussion purposes only**. The content represents the author's perspective and does not constitute legal, engineering, medical, or regulatory advice. Implementations referencing or claiming compliance with HSAW are independent works; the author assumes no liability for any system built upon, referencing, or claiming alignment with this principle. Users and implementers must conduct their own evaluation.
+
+---
+
 **AIXP Labs [AIXP.dev](https://aixp.dev) | [HSAW.dev](https://hsaw.dev)**
 
 *Align Axiom 0: Human Sovereignty and Wellbeing.*
